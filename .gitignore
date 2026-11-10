@@ -1,0 +1,13 @@
+# AutoVLA checkout made by scripts/setup_autovla.sh
+/AutoVLA/
+# data, checkpoints, caches
+/dataset/
+/runs/
+lightning_logs/
+*.ckpt
+*.pkl
+*.npz
+*.lmdb
+*.tfrecord*
+*.log
+__pycache__/
